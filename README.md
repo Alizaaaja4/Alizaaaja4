@@ -1,10 +1,14 @@
-## Hello Everyone👋
-Hi there! I'm Aliza, a Telecommunication Engineering student with a passion for: 
-                                                                                  
-=>👩‍💻 Backend or Network or cloud 📡<=                                                    
+<h1 align="center">Hi 👋, I'm Aliza</h1>
 
-### Progammer
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,python,c)](https://skillicons.dev)
 
-###  Operating System
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of web development. I'm in the early stages of my journey, focusing on becoming a <strong> Backend Developer and DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of web development and aspire to contribute as a <strong> 👨‍💻Backend Developer and DevOps Engineer☁️ </strong>.</p>&nbsp;
+                                                
+## My Skills
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### Main Stack :
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,html,css,c)](https://skillicons.dev)
+
+### Studying in this moment:
+[![Study](https://skillicons.dev/icons?i=kubernetes,docker,python,laravel,js)](https://skillicons.dev)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
