@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aliza</h1>
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of web development. I'm in the early stages of my journey, focusing on becoming a <strong> Backend Developer and DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of web development and aspire to contribute as a <strong> 👨‍💻Backend Developer and DevOps Engineer☁️ </strong>.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of web development. I'm in the early stages of my journey, focusing on becoming a <strong> Backend Developer and DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of web development and aspire to contribute as a 
+  <strong>Backend Developer and DevOps Engineer</strong>.</p>
                                                 
 ## My Skills
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
