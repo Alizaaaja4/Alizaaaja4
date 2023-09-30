@@ -4,7 +4,7 @@ Hi there! I'm Aliza, a Telecommunication Engineering student with a passion for:
 
 =>👩‍💻 Backend Development 
 
-=>📡 Network/ Cybersecurity
+=>📡 Network/ Cloud
 
 
 ### Progammer
