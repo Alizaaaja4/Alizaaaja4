@@ -11,5 +11,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,html,css,c)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![Study](https://skillicons.dev/icons?i=kubernetes,docker,python,laravel,js)](https://skillicons.dev)
+[![Study](https://skillicons.dev/icons?i=kubernetes,docker,python)](https://skillicons.dev)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
