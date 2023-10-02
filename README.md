@@ -14,6 +14,7 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Cisco](https://img.shields.io/badge/cisco-white?style=for-the-badge&logo=cisco&logoColor=049FD9)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 
 ### Studying in this moment:
