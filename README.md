@@ -19,6 +19,10 @@
 ### Studying in this moment:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
+![Redhat](https://img.shields.io/badge/redhat-CA3433?style=for-the-badge&logo=redhat&logoColor=white)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
