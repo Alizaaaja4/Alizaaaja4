@@ -10,6 +10,7 @@
 ### Main Stack :
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FCC624)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Cisco](https://img.shields.io/badge/cisco-white?style=for-the-badge&logo=cisco&logoColor=049FD9)](https://dev.to/envoy_/150-badges-for-github-pnk)
@@ -17,9 +18,9 @@
 
 
 ### Studying in this moment:
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FCC624)](https://dev.to/envoy_/150-badges-for-github-pnk)
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=red)
 ![Grafana](https://img.shields.io/badge/grafana-E34F26?style=for-the-badge&logo=grafana&logoColor=yellow)
 ![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus&logoColor=orange)
 
