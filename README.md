@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Aliza 👋</h1>
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of python developer. I'm in the early stages of my journey, focusing on becoming a <strong>DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of python developer and aspire to contribute as a 
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of software developer. I'm in the early stages of my journey, focusing on becoming a <strong>DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of software developer and aspire to contribute as a 
   <strong>DevOps Engineer</strong>.</p>
                                                 
 ## My Skills
-<img src="https://github.com/Alizaaaja4/Alizaaaja4/blob/main/cloud-computing.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
 
 ### Main Stack :
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -18,6 +17,7 @@
 
 
 ### Studying in this moment:
+![C#](https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=red)
