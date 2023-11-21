@@ -17,7 +17,6 @@
 
 
 ### Studying in this moment:
-![C#](https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=red)
