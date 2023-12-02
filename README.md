@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aliza 👋</h1>
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of software developer. I'm in the early stages of my journey, focusing on becoming a <strong>DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of software developer and aspire to contribute as a 
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of machine learning. I'm in the early stages of my journey, focusing on becoming a <strong>DevOps Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of machine learning and aspire to contribute as a 
   <strong>DevOps Engineer</strong>.</p>
                                                 
 ## My Skills
@@ -13,6 +13,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Cisco](https://img.shields.io/badge/cisco-white?style=for-the-badge&logo=cisco&logoColor=049FD9)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Stremlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=#F63366)](https://dev.to/envoy_/150-badges-for-github-pnk)
 ![Mikrotik](https://img.shields.io/badge/mikrotik-white?style=for-the-badge&logo=mikrotik&logoColor=black)
 
 
@@ -20,8 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=red)
-![Grafana](https://img.shields.io/badge/grafana-E34F26?style=for-the-badge&logo=grafana&logoColor=yellow)
-![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus&logoColor=orange)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
