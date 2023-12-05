@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Aliza 👋</h1>
+<a href="https://github.com/Alizaaaja4">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Aliza+Nurfitiran;Researcher+%7C+Practicum+Assistant;AI+%7C+IoT+%7C+Machine Learning" alt="Typing SVG" />
+</a>
+<br/>
 
+* 📖 Telecomunication Engineering Student - Telkom University
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Telecommunication Engineering student currently exploring the realms of machine learning. I'm in the early stages of my journey, focusing on becoming a <strong>Machine Learning Engineer </strong>. My passion lies in discovering new technologies and leveraging them to craft high-quality solutions. While I'm a beginner in the field, I'm enthusiastic about the world of machine learning and aspire to contribute as a 
-  <strong>Machine Learning Engineer</strong>.</p>
-                                                
-## My Skills
+* 🎓 Conducting research on **AI**, **IoT** and **Machine Learning**
 
-### Main Stack :
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FCC624)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Cisco](https://img.shields.io/badge/cisco-white?style=for-the-badge&logo=cisco&logoColor=049FD9)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Stremlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=#F63366)](https://dev.to/envoy_/150-badges-for-github-pnk)
-![Mikrotik](https://img.shields.io/badge/mikrotik-white?style=for-the-badge&logo=mikrotik&logoColor=black)
+* 💻 Currently studying AI by doing some small projects.
+  
+### 🖥️ Open-Source Projects
+<table>
+<tr><th> Programming </th>></tr>
+<tr><td>
 
+|Title | Status | Technologies|
+|--|--|--|
+| [D'BengkelTelU](https://github.com/Alizaaaja4/Project_C-Ver.1) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
+| [GameZone](https://github.com/Alizaaaja4/Project_C-Ver.2) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
+| [RegisHub](https://github.com/Alizaaaja4/Project_Py-Ver.2) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [TaskMaster](https://github.com/Alizaaaja4/Project_Py-Ver.4) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
-### Studying in this moment:
-![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-FFFFFF?style=for-the-badge&logo=jenkins&logoColor=red)
-
-
+</td></tr> </table>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
