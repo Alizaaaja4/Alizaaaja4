@@ -11,16 +11,21 @@
   
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th> Programming </th>></tr>
+<tr><th> Programming </th>><th> AI/ Machine Learning </th></tr>
 <tr><td>
 
-|Title | Status | Technologies|
+| Title | Status | Technologies |
 |--|--|--|
 | [D'BengkelTelU](https://github.com/Alizaaaja4/Project_C-Ver.1) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
 | [GameZone](https://github.com/Alizaaaja4/Project_C-Ver.2) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
 | [RegisHub](https://github.com/Alizaaaja4/Project_Py-Ver.2) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
-| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 | [TaskMaster](https://github.com/Alizaaaja4/Project_Py-Ver.4) | on going | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+
+<td></td>
+
+| Title | Status | Technologies |
+|--|--|--|
+| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td></tr> </table>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
