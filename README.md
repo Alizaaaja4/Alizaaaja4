@@ -26,7 +26,7 @@
 | Title | Status | Technologies |
 |--|--|--|
 | [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
-| [Let's Talk with Bot](https://github.com/Alizaaaja4/Project_Py-Ver.7) | coming soon |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [ChatBot](https://github.com/Alizaaaja4/Project_Py-Ver.7) | coming soon |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td></tr> </table>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
