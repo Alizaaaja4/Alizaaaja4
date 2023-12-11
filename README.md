@@ -19,13 +19,13 @@
 | [D'BengkelTelU](https://github.com/Alizaaaja4/Project_C-Ver.1) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
 | [GameZone](https://github.com/Alizaaaja4/Project_C-Ver.2) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
 | [RegisHub](https://github.com/Alizaaaja4/Project_Py-Ver.2) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
-| [TaskMaster](https://github.com/Alizaaaja4/Project_Py-Ver.4) | on going | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [TaskMaster](https://github.com/Alizaaaja4/Project_Py-Ver.4) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td><td>
 
 | Title | Status | Technologies |
 |--|--|--|
-| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | on goin | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 | [ChatBot](https://github.com/Alizaaaja4/Project_Py-Ver.7) | coming soon |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td></tr> </table>
