@@ -5,7 +5,7 @@
 
 * 📖 Telecomunication Engineering Student - Telkom University
 
-* 🎓 Conducting research on **AI**, **IoT** and **Machine Learning**
+* 🎓 Conducting research on **AI**,  **Machine Learning** and **Software Development**
 
 * 💻 Currently studying AI by doing some small projects.
   
