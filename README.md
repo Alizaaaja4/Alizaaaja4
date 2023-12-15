@@ -20,6 +20,7 @@
 | [GameZone](https://github.com/Alizaaaja4/Project_C-Ver.2) | complete | ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)|
 | [RegisHub](https://github.com/Alizaaaja4/Project_Py-Ver.2) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 | [TaskMaster](https://github.com/Alizaaaja4/Project_Py-Ver.4) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [CofeeChatter](https://github.com/Alizaaaja4/Project_Py-Ver.8) | on going |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td><td>
 
@@ -27,7 +28,6 @@
 |--|--|--|
 | [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | on going | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 | [EduQuery: Chatbot](https://github.com/Alizaaaja4/Project_Py-Ver.7) | complete |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
-| [CofeeChatter](https://github.com/Alizaaaja4/Project_Py-Ver.8) | coming soon |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td></tr> </table>
 
