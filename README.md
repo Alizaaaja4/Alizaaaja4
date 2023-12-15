@@ -30,6 +30,18 @@
 | [CofeeChatter](https://github.com/Alizaaaja4/Project_Py-Ver.8) | coming soon |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td></tr> </table>
+
+<table>
+<tr><th> Software Developemnt </th>
+<tr><td>
+
+| Title | Status | Technologies |
+|--|--|--|
+| [Daskom DLOR 24](https://github.com/Alizaaaja4/daskomrec24) | on going | ![Laravel](https://img.shields.io/badge/laravel-black?style=flat-square&logo=laravel) ![tailwind](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)|
+| [Daskom Pra DLOR 24](https://github.com/Alizaaaja4/Web_PraDLOR24) | on going | ![tailwind](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)|
+| [Calculator Sains](https://github.com/Alizaaaja4/web_Calculator-Sains) | on going | ![tailwind](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)|
+</td></tr> </table>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
