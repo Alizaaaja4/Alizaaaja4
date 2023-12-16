@@ -31,7 +31,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th> Web Developer </th>><th> Mobile App Developer </th></tr>
+<tr><th> Website </th>><th> Mobile App </th></tr>
 <tr><td>
 
 | Title | Status | Technologies |
