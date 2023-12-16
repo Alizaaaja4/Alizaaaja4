@@ -25,7 +25,7 @@
 
 | Title | Status | Technologies |
 |--|--|--|
-| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | on going | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
+| [COVID-19 Data Explorer](https://github.com/Alizaaaja4/Project_Py-Ver.3) | complete | ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 | [EduQuery: Chatbot](https://github.com/Alizaaaja4/Project_Py-Ver.7) | complete |  ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)|
 
 </td></tr> </table>
