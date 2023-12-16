@@ -43,7 +43,7 @@
 
 | Title | Status | Technologies |
 |--|--|--|
-| [Mobile App Calculator Sains](https://github.com/Alizaaaja4/App_Calculator-Sains) | on going | ![flutter](https://img.shields.io/badge/flutter-white?style=flat-square&logo=flutter)|
+| [App Calculator Sains](https://github.com/Alizaaaja4/App_Calculator-Sains) | on going | ![flutter](https://img.shields.io/badge/flutter-white?style=flat-square&logo=flutter)|
 
 </td></tr> </table>
 
