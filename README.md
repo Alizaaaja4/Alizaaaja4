@@ -31,19 +31,14 @@
 </td></tr> </table>
 
 <table>
-<tr><th> Website </th>><th> Mobile App </th></tr>
+<tr><th> Sofwtare </th></tr>
 <tr><td>
 
 | Title | Status | Technologies |
 |--|--|--|
 | [Daskom Pra DLOR 24](https://github.com/Alizaaaja4/Web_PraDLOR24) | on going | ![tailwind](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)|
 | [Daskom DLOR 24](https://github.com/Alizaaaja4/daskomrec24) | on going | ![Laravel](https://img.shields.io/badge/laravel-black?style=flat-square&logo=laravel) ![tailwind](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)|
-
-</td><td>
-
-| Title | Status | Technologies |
-|--|--|--|
-| [App Calculator Sains](https://github.com/Alizaaaja4/App_Calculator-Sains) | on going | ![flutter](https://img.shields.io/badge/flutter-white?style=flat-square&logo=flutter)|
+| [Calculator Sains](https://github.com/Alizaaaja4/Web_Calculator-Sains) | on going | ![tailwind](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)|
 
 </td></tr> </table>
 
