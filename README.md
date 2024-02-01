@@ -5,7 +5,7 @@
 
 * 📖 Telecomunication Engineering Student - Telkom University
 
-* 🎓 Conducting research on **Security Architect**, **Machine Learning** and **Software Website Engineert**
+* 🎓 Conducting research on **Security Architect**, **Cloud Computing**, **Machine Learning** and **Software Website Engineer**
 
 * 💻 Currently studying AI by doing some small projects.
   
