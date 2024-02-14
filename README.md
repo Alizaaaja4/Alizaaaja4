@@ -3,11 +3,7 @@
 </a>
 <br/>
 
-* 📖 Telecomunication Engineering Student - Telkom University
-
-* 🎓 Conducting research on **Security Architect**, **Cloud Computing**, and **Software Engineer**
-
-* 💻 Currently studying programmer by doing some small projects.
+Saya cuman tau belajar, belajar dan don't have boyfriend
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
