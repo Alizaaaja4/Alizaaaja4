@@ -3,7 +3,7 @@
 </a>
 <br/>
 
-Saya cuman tau belajar, belajar dan don't have boyfriend
+Saya cuman tau belajar, belajar dan makan
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
