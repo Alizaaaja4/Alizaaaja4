@@ -6,9 +6,10 @@
 <div align="center"> <p>Practicum Assistant & Lecture Assistant</p></div>
 
 ###
+<div align="center">
+An assistant once said, "Master programming languages because they are the foundation of all technology." </div>
 
-An assistant once said, "Master programming languages because they are the foundation of all technology."
-
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
