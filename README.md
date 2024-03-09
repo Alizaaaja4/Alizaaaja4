@@ -3,6 +3,8 @@
   <img height="150" src="https://divedigital.id/wp-content/uploads/2022/06/30-tanjiro-kamado-daun-merah-768x844.jpg"  />
 </div>
 
+<div align="center"> <p>Practicum Assistant & Lecture Assistant</p></div>
+
 ###
 
 An assistant once said, "Master programming languages because they are the foundation of all technology."
