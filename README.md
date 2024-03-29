@@ -34,7 +34,7 @@ An assistant once said, "Master programming languages because they are the found
 <img width="12" />
 <div align="center">
     <h2><b>📖 Collection of practice source code modules 📖</b></h2>
-    <h4 style="font-size: 18px;">🙏🏻 Explore our collection of practice source code modules 🙏🏻</h4>
+  
     <a href="https://github.com/Alizaaaja4/Modul_Csharp" style="text-decoration: none; color: #0366d6; font-size: 36px; font-weight: bold;">🔗 Source code C#</a>
 </div>
 
