@@ -3,7 +3,7 @@
   <img height="150" src="https://divedigital.id/wp-content/uploads/2022/06/30-tanjiro-kamado-daun-merah-768x844.jpg"  />
 </div>
 
-<div align="center"> <p>Practicum Assistant</p></div>
+<div align="center"> <p> <b>Practicum Assistant </b></p></div>
 
 ###
 <div align="center">
@@ -31,6 +31,15 @@ An assistant once said, "Master programming languages because they are the found
 
 ###
 </div></div>
+<img width="12" />
+<div align="center">
+    <h2><b>📖 Collection of practice source code modules 📖</b></h2>
+    <h4 style="font-size: 18px;">🙏🏻 Explore our collection of practice source code modules 🙏🏻</h4>
+    <a href="https://github.com/Alizaaaja4/Modul_Csharp" style="text-decoration: none; color: #0366d6; font-size: 36px; font-weight: bold;">🔗 Source code C#</a>
+</div>
+
+
+
 
 
   
