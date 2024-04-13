@@ -33,9 +33,10 @@ An assistant once said, "Master programming languages because they are the found
 </div></div>
 <img width="12" />
 <div align="center">
-    <h2><b>📖 Collection of practice source code modules 📖</b></h2>
+    <h4><b>📖 Collection of practice source code modules 📖</b></h4>
     <a href="https://github.com/Alizaaaja4/Mini_Project_C" style="text-decoration: none; color: #0366d6; font-size: 24px; font-weight: bold;">🔗 Source code C</a> <br>
-    <a href="https://github.com/Alizaaaja4/Modul_Csharp" style="text-decoration: none; color: #0366d6; font-size: 24px; font-weight: bold;">🔗 Source code C#</a> 
+    <a href="https://github.com/Alizaaaja4/Modul_Csharp" style="text-decoration: none; color: #0366d6; font-size: 24px; font-weight: bold;">🔗 Source code C#</a> <br>
+    <a href="https://github.com/Alizaaaja4" style="text-decoration: none; color: #0366d6; font-size: 24px; font-weight: bold;">🔗 Source code Javascript</a> 
 </div>
 
 
