@@ -7,10 +7,6 @@
 
 ###
 <div align="center">
-An assistant once said, "Master programming languages because they are the foundation of all technology." </div>
-
-###
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -28,6 +24,11 @@ An assistant once said, "Master programming languages because they are the found
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+
+
+###
+<div align="center">
+An assistant once said, "Master programming languages because they are the foundation of all technology." </div>
 
 ###
 </div></div>
