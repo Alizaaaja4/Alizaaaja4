@@ -25,11 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 
-
-###
-<div align="center">
-An assistant once said, "Master programming languages because they are the foundation of all technology." </div>
-
 ###
 </div></div>
 <img width="12" />
