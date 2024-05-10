@@ -3,7 +3,7 @@
   <img height="150" src="https://divedigital.id/wp-content/uploads/2022/06/30-tanjiro-kamado-daun-merah-768x844.jpg"  />
 </div>
 
-<div align="center"> <p> <b>Software Developer</b></p></div>
+<div align="center"> <p> <b>Full-Stack Developer (Frontend)</b></p></div>
 
 ###
 <div align="center">
