@@ -1,4 +1,3 @@
-## 🛠 Tech Stack
 ### 💻 Software Development
 <p align="left">
   <!-- Frontend -->
